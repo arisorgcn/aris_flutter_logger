@@ -1,0 +1,31 @@
+name: aris_flutter_logger
+description: Logging Utility tool
+version: 1.0.0
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 日志插件 (https://github.com/leisim/logger)
+  logger: ^0.9.4
+
+  # 同步锁 (https://github.com/tekartik/synchronized.dart)
+  synchronized: ^2.2.0+2
+
+  # 工具类库 (https://github.com/Sky24n/flustars)
+  flustars: ^0.3.3
+
+  # 字符串格式化 (https://github.com/Naddiseo/dart-sprintf)
+  sprintf: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
