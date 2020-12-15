@@ -21,14 +21,13 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 import 'package:logger/logger.dart';
 
-import 'config/aris_log_config.dart';
 import 'aris_logger_exception.dart';
+import 'aris_tag_logger.dart';
+import 'config/aris_log_config.dart';
 import 'enums/log_output_type.dart';
 import 'outputs/rotate_file_output.dart';
-import 'aris_tag_logger.dart';
 
 ///
 /// Log工具类

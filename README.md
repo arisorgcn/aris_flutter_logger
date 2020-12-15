@@ -7,7 +7,7 @@ file(rotated formatted), supporting configuring according to your environment(de
 
 ### Step1 add package to your **pubspec.yaml**, then run `pub get`
 
-    aris_flutter_logger: ^1.0.0
+    aris_flutter_logger: ^1.0.0+1
 
 ### Step2 add below method in main.dart
 

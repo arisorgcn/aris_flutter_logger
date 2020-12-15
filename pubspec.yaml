@@ -1,7 +1,6 @@
 name: aris_flutter_logger
-description: An easy-to-use logging tool for you to integrate in you project, supporting logging to console,
-  file(rotated formatted), supporting configuring according to your environment(development or production)
-version: 1.0.0
+description: An easy-to-use logging tool, supporting logging to console or file, supporting configuring according to your environment
+version: 1.0.0+1
 homepage: https://github.com/arisorgcn/aris_flutter_logger
 
 environment:

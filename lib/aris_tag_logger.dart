@@ -24,7 +24,6 @@
 import 'package:logger/logger.dart';
 import 'package:sprintf/sprintf.dart';
 
-///
 /// @author Aris Hu created at 2020-12-08
 /// TagLogger logger = TagLogger();
 ///

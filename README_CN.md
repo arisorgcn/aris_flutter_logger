@@ -7,7 +7,7 @@
 
 ### Step1 添加以下依赖到pubspec.yaml, 然后运行 `pub get` 命令
 
-    aris_flutter_logger: ^1.0.0
+    aris_flutter_logger: ^1.0.0+1
 
 ### Step2 添加以下方法
 
